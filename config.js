@@ -2,8 +2,8 @@ const CONFIG = {
     titleWeb: "Love confess",
     introTitle: 'Who are you',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao lệ cứ đi nhầm đường
+    Lạc vào tim Quyết lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Làm người yêu tớ nha 🥰',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/phicao114/'
+    messLink: 'https://www.facebook.com/re.nga.39794'
 }
